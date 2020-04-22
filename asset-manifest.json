@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/spaceocean-platformer/static/css/main.db7e5d40.chunk.css",
+    "main.js": "/spaceocean-platformer/static/js/main.5816ba79.chunk.js",
+    "main.js.map": "/spaceocean-platformer/static/js/main.5816ba79.chunk.js.map",
+    "runtime-main.js": "/spaceocean-platformer/static/js/runtime-main.5aa729aa.js",
+    "runtime-main.js.map": "/spaceocean-platformer/static/js/runtime-main.5aa729aa.js.map",
+    "static/js/2.a16ea861.chunk.js": "/spaceocean-platformer/static/js/2.a16ea861.chunk.js",
+    "static/js/2.a16ea861.chunk.js.map": "/spaceocean-platformer/static/js/2.a16ea861.chunk.js.map",
+    "index.html": "/spaceocean-platformer/index.html",
+    "precache-manifest.8af6321caea951f8c28d4dbf125cb813.js": "/spaceocean-platformer/precache-manifest.8af6321caea951f8c28d4dbf125cb813.js",
+    "service-worker.js": "/spaceocean-platformer/service-worker.js",
+    "static/css/main.db7e5d40.chunk.css.map": "/spaceocean-platformer/static/css/main.db7e5d40.chunk.css.map",
+    "static/js/2.a16ea861.chunk.js.LICENSE.txt": "/spaceocean-platformer/static/js/2.a16ea861.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5aa729aa.js",
+    "static/js/2.a16ea861.chunk.js",
+    "static/css/main.db7e5d40.chunk.css",
+    "static/js/main.5816ba79.chunk.js"
+  ]
+}
