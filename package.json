@@ -1,5 +1,7 @@
 {
   "version": "0.1.0",
+  "name": "spaceocean-platformer",
+  "homepage": "https://furkantanyol.github.io/spaceocean-platformer/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
